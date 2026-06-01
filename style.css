@@ -323,6 +323,7 @@ section{
 
 /* Custom Hover Color Filters */
 .skill-card:hover .fa-compass-drafting { color: #00ffaa; }
+.skill-card:hover .fa-bezier-curve { color: #ffaa00; }
 .skill-card:hover .fa-python { color: #3776ab; }
 .skill-card:hover .fa-css3-alt { color: #1572b6; }
 .skill-card:hover .fa-html5 { color: #e34f26; }
